@@ -11,3 +11,5 @@
 Machine-like/Machine-like is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Machine-like&hide_progress=true)](https://github.com/Machine-like/github-readme-stats)
